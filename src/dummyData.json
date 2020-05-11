@@ -1,0 +1,22 @@
+[
+  { "name": "IBM", "color": "yellow", "message": "Is this theater?" },
+  {
+    "name": "ENA",
+    "color": "red",
+    "message": "Theatre or theater is a collaborative form of performing art."
+  },
+  {
+    "name": "IBM",
+    "color": "yellow",
+    "message": "Are you enjoying this piece?"
+  },
+  { "name": "ENA", "color": "red", "message": "ENA sometimes." },
+  { "name": "", "color": "", "message": "ENA kisses IBM" },
+  {
+    "name": "ENA",
+    "color": "red",
+    "message": "What could I add so you would enjoy it all the time?"
+  },
+  { "name": "ENA", "color": "red", "message": "Knock, Knock, jokes" },
+  { "name": "IBM", "color": "yellow", "message": "Knock, Knock," }
+]
